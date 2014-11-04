@@ -1,0 +1,17 @@
+Django==1.7.1
+WebOb==1.4
+WebTest==2.0.16
+amqp==1.4.6
+anyjson==0.3.3
+beautifulsoup4==4.3.2
+billiard==3.3.0.18
+celery==3.1.16
+django-fsm==2.2.0
+django-viewflow==0.7.0
+django-webtest==1.7.7
+kombu==3.0.23
+mock==1.0.1
+pytz==2014.9
+singledispatch==3.4.0.3
+six==1.8.0
+waitress==0.8.9
